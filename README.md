@@ -4,6 +4,8 @@ A premium quote browsing application built with **React + Vite + Tailwind CSS v4
 
 ![QuoteVault](https://img.shields.io/badge/React-19-blue) ![Vite](https://img.shields.io/badge/Vite-8-purple) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4)
 
+**Live Demo:** [https://quotes-listing-app.netlify.app/](https://quotes-listing-app.netlify.app/)
+
 ## ✨ Features
 
 - **Gallery View** — Browse quotes in a responsive grid with glass-morphism cards  
